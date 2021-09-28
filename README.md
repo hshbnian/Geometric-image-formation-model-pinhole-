@@ -5,7 +5,7 @@ Following are the steps:
 
 1. Initialization world point given with respect to world origin
 2. Transformation
-3.    - Initialization required parameters for Interensic parameters
+      - Initialization required parameters for Interensic parameters
       - Initialization required parameters for Exterinsic parameters
 4. Doing Rotation and finding the output and getting the image  
 5. Estimating Process:  estimating  Extrinsic Parameters by input points and output points
